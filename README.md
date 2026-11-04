@@ -1,4 +1,7 @@
 # Port Sniffer CLI
+
+[![Discord](https://img.shields.io/discord/754001738184392704?logo=discord&label=Discord)](https://discord.skerritt.blog)
+
 Simple port sniffer made in rust as a learning project.
 Please only use this for ethical purposes only!
 
